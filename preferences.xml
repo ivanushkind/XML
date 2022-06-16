@@ -1,4 +1,7 @@
-1984
-Sopranos
-Grechka - joke
-Winter
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Film>Green Elephant</Film>
+    <tvseries>The Wire</tvseries>
+    <food>Borsch</food>
+    <season>spring</season>
+</root>
