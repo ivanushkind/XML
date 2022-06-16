@@ -1,4 +1,7 @@
-Zhmyshenko Valerii Albertovich
-54
-10
-600$
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <firstname>Valerii</firstname>
+    <lastname>Zhmykh</lastname>
+    <numberofpets>0</numberofpets>
+    <desiredSalary>150$</desiredSalary>
+</root>
