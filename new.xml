@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <firstname>Valerii</firstname>
-    <lastname>Zhmykh</lastname>
-    <numberofpets>0</numberofpets>
+    <firstname>Danylo</firstname>
+    <lastname>Ivanushkin</lastname>
+    <numberofpets>1</numberofpets>
     <desiredSalary>150$</desiredSalary>
 </root>
